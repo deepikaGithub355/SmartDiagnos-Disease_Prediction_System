@@ -15,3 +15,11 @@ associated with those symptoms. It will analyze patterns and relationships withi
 given dataset, which comprises symptoms and corresponding diseases, to learn the 
 underlying patterns and create a predictive model. The idea behind the system is to adapt to 
 cope with the special requirements of the health domain related with users.
+
+SmartDiagnos is basically a web application that leverages machine learning to predict diseases based
+on user-input symptoms. The user-friendly interface of it is developed using HTML, CSS, JavaScript,
+and Bootstrap, which allows users to enter their symptoms easily.The project achieved an impressive accuracy rate of over 95% using the 'Random Forest'
+algorithm for disease prediction.Integrated Flask, a lightweight web framework, to connect the frontend with the backend
+seamlessly. Included additional functionalities to enhance the user experience and utility of the
+application.
+
