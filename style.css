@@ -1,0 +1,22 @@
+h2{
+    text-align: center;
+}
+.image-container {
+    position: relative; /* Create a relative positioning context for the container */
+}
+.image-text {
+    position: absolute;
+    top: 20%; /* Adjust this value to position the text vertically */
+    left: 5%; /* Adjust this value to position the text horizontally */
+    /*transform: translate(-50%, -50%); /* Center the text within the container */
+    color: #ffffff; /* Text color */
+    font-family: 'Alegreya SC', serif;
+    font-size: 40px; /* Font size for the text */
+    font-weight: normal; /* Font weight for the text */
+    line-height: 1.2;
+}
+
+.cards-container {
+    display: flex;
+    justify-content: space-around;
+}
