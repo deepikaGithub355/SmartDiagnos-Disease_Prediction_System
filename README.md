@@ -9,11 +9,10 @@ leveraging machine learning and data analysis techniques using â€˜Random Forestâ
 By training the model on historical data, it was able to learn the relationship between 
 symptoms and diseases and then use this knowledge for predicting the disease. The goal is 
 to provide a tool that can assist healthcare professionals in diagnosing diseases accurately 
-and efficiently, ultimately improving patient care and outcomes. The system will be 
+and efficiently, ultimately improving patient care and outcomes. 
+The system is 
 designed to take a set of symptoms as input and predict the most likely diseases or conditions 
-associated with those symptoms. It will analyze patterns and relationships within a 
-given dataset, which comprises symptoms and corresponding diseases, to learn the 
-underlying patterns and create a predictive model. The idea behind the system is to adapt to 
+associated with those symptoms as output. The idea behind the system is to adapt to 
 cope with the special requirements of the health domain related with users.
 
 SmartDiagnos is basically a web application that leverages machine learning to predict diseases based
